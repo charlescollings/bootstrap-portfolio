@@ -1,0 +1,166 @@
+.name {
+    padding-top: 10px;
+    color: white;
+    font-size: 25px;
+    text-align: left;
+    background-color: #4aaaa5;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    padding: 20px;
+    width: 200px;
+    position: relative;
+}
+
+.top-middle {
+    background-color: white;
+}
+
+.nav {
+    margin: auto;
+    font-size: 15px;
+}
+
+.links {
+    background-color: white;
+}
+
+.main-section {
+    padding: 40px;
+    border-style: solid;
+    border-width: 35px;
+    border-color: #cccccc;
+    background-color: white;
+}
+
+.middle-wrapper {
+    background-color: #cccccc;
+}
+
+.about {
+    margin-left: 30px;
+    color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.mypic {
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.bio {
+    margin: 5px;
+}
+
+.bottom {
+    background-color: #666666;
+    height: 100px;
+    border-top: 5px solid #4aaaa5;
+}
+
+.copyright {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    position: relative;
+    top: 40px;
+}
+
+.top {
+    height: 70px;
+   
+}
+
+.middle {
+    height: 500px;
+    background-color: #cccccc;
+}
+
+.left {
+    padding: 50px;
+}
+
+.right {
+    padding: 50px;
+}
+
+.empty {
+   
+}
+
+.contact {
+    background-color: white;
+    height: 50px;
+    font-size: 30px;
+    color: #4aaaa5;
+    padding: 20px;
+    padding-bottom: 60px;
+    border-bottom: thin;
+    border-bottom-color: black;
+    border-bottom-style: solid; 
+}
+
+
+.contact-form {
+    background-color:white;
+    padding: 20px;
+}
+
+.form {
+    background-color: blue;
+    height: 250px;
+    margin-top: 20px; 
+}
+
+.connect {
+    margin: auto;
+    width: 200px;
+    height: 70px;
+    color: #4aaaa5;
+    padding: 20px;
+    text-align: center;
+    font-size: 21px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    border-bottom: thin;
+    border-bottom-color: black;
+    border-bottom-style: solid; 
+}
+
+.icons {
+    background-color: white;
+    height: 80px;
+    width: 200px;
+    margin: auto;
+}
+
+.images {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	margin-top: 5px;
+}
+
+.img {
+	position: relative;
+	width: 250px;
+	padding-bottom: 10px;
+  }
+  
+  p {
+	position: absolute;
+	bottom: 0.1rem;
+	background: #4aaaa5;
+	width: 200px;
+	height: 40px;
+	margin-bottom: 20px;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+  }
+
